@@ -194,7 +194,3 @@ The below entity relationship diagram describes the relationships among the enti
 
    - Limited recurring schedule patterns
 
-Copyright © 2025 Deephang Thegim. All rights reserved.
-This project was created for CS50's Introduction to Database with SQL.
-You may use, modify, and share this project with attribution.
-Commercial use requires permission. Academic integrity applies.
